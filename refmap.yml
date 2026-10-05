@@ -1,0 +1,5 @@
+metainfo: OmniscientReborn/meta.yml
+main: OmniscientReborn/src/main.py
+assets: OmniscientReborn/res
+strings: OmniscientReborn/locales
+elyxbuilder: OmniscientReborn/.elyxbuilder
